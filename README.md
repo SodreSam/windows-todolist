@@ -1,7 +1,7 @@
-<h1  align="center"> DarkMode NavBar </h1>
+<h1  align="center"> Lista de Tarefas - Windows </h1>
 
 
-<p align="center">🚀 Projeto de estudo com Light/DarkMode</p>
+<p align="center">🚀 Projeto de estudo baseado no Microsoft ToDo </p>
 
 <hr>
 
@@ -14,19 +14,14 @@
 
 
 <h4 align="center"> 
-	✅  DarkMode SideBar 🚀 Concluído  ✅
+	🚧  Lista de Tarefas | Microsoft ToDo 🚀 Em construção 🚧
 </h4>
-
-
-
-https://user-images.githubusercontent.com/54036338/158279547-c7fb9565-5c87-4232-937d-da9e9825415c.mp4
-
 
 
 <hr>
 <div id="objetivo">
 	<h1>Objetivo</h1>
-  <h4>O objetivo deste projeto foi reforçar alguns conceitos básicos e outros mais avançados de HTML, CSS e Javascript </h4>
+  <h4>O objetivo deste projeto foi reforçar alguns conceitos básicos e outros mais avançados de HTML, CSS e Javascript, desenvolvendo uma todo list baseada no Microsoft ToDo.</h4>
 
 </div>
 
@@ -34,17 +29,15 @@ https://user-images.githubusercontent.com/54036338/158279547-c7fb9565-5c87-4232-
 
 </div>
 <hr>
-
+<!--
 <div id="features"> 
-
    ### Features adicionadas até então
-
 - [x] SideBar
 - [x] Responsividade para dispositivos mobile
 - [x] DarkMode
 - [x] LightMode
-  
 </div>
+-->
 
 
 <div id="requisitos">
@@ -64,14 +57,11 @@ git clone https://github.com/SodreSam/DarkMode-NavBar.git
 	
 ###  🖌 Layout
 	
- A ideia e layout do projeto foi retirada do canal/aula CodingLab.
+ A ideia e layout do projeto foi baseada no Microsoft ToDo.
   
  </h4>
 	
 </div>
 
 <hr>
-
-
-<p align="center">Apesar de já possuir uma boa base de HTML, CSS e Javascript em si, acho importante reforçar os conceitos básicos da programação. Com isso, achei interessante realizar esse estudo com algo que eu ainda não havia feito, uma aplicação com DarkMode. Foi uma experiência bem interessante e certamente irei adicionar novas funcionalidades ao projeto. </p>
 	
