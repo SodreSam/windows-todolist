@@ -48,7 +48,7 @@
 ``` bash
 # para clonar o repositório, basta inserir o comando abaixo no seu terminal
   
-git clone https://github.com/SodreSam/DarkMode-NavBar.git
+git clone https://github.com/SodreSam/windows-todolist.git
 
 ```
 </div>
